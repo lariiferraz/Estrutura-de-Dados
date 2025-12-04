@@ -1,7 +1,5 @@
 # 📚 Estrutura de Dados
 
-Repositório criado para armazenar conteúdos, exercícios e projetos desenvolvidos durante a disciplina **Estrutura de Dados**.
-
 ---
 
 ## 🧩 **Sobre o Repositório**
